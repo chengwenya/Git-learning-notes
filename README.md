@@ -24,3 +24,4 @@
 	③git tag -a name -m "comment" 指定提交信息
 	④git tag -d name 删除标签
 	⑤git push origin name 发布标签
+六、最后总结
